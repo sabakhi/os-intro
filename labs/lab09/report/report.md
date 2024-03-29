@@ -3,7 +3,7 @@
 lang: ru-RU
 title: "Отчёт по лабораторной работе №9"
 subtitle: "Командная оболочка Midnight Commander"
-author: "Элсаиед Адел Мансоур Абделхалим Мохамед"
+author: "Бахи Сиди Али Темассини"
 
 # Formatting
 toc-title: "Содержание"
